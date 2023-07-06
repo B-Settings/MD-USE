@@ -5,30 +5,28 @@
 <!-- PROJECT LOGO -->
 <br />
 <div align="center">
-  <a href="https://github.com/Blooket-Cheats/Blooket-Hacks">
+  <a href="https://github.com/The-Blooket-Hacks/Blooket-Hacks">
 	 <img src="images/E248401F-9CDF-4412-BA15-06655AFE90D7.gif" alt="Logo" width="200" height="200" />
   </a>
   
 <h3 align="center">Blooket Hacks (EXPERIMENTAL)</h3>
-<h4 align="center">Made By <a href="https://github.com/cph101/">cph101</a> & <a href="https://github.com/crazyh2/">CrazyH</a></h4>
+<h4 align="center">Made By <a href="https://github.com/BlooketProHacker/">Blooket Pro Hacker</a></h4>
 
   <p align="center">
-   This is EXPERIMENTAL! If you do not wish to use hacks that do not work <br>as they are supposed to, please switch to the main branch or click <a href="https://github.com/Blooket-Cheats/Blooket-Hacks/">here.</a>
+   This is EXPERIMENTAL! If you do not wish to use hacks that do not work <br>as they are supposed to, please switch to the main branch or click <a href="https://github.com/The-Blooket-Hacks/Blooket-Hacks/">here.</a>
   </p>    <br /></div>
 
 <!-- USAGE -->
-#### ‎‎ 🧪 ‎ ‎ EXPERIMENTAL - [Switch to stable version](https://github.com/Blooket-Cheats/Blooket-Hacks/)
+#### ‎‎ 🧪 ‎ ‎ EXPERIMENTAL - [Switch to stable version](https://github.com/The-Blooket-Hacks/Blooket-Hacks/)
 
 <br />
 
 <!-- CONTACT -->
 ## ‎‎ <img width="18" src="https://cdn.discordapp.com/emojis/1035536629407957042"> ‎ ‎ Contact
 
-• ‎ <img width="18" src="https://i.ibb.co/XkWwv7D/A63558-E9-8-A93-42-F8-BF87-BA05-D2-EBD817.png"> ‎ cph101 • cph101\#<span>&#x30;&#x30;&#x30;</span>1 • cph101@icloud.com</span>
+• ‎ <img width="18" height="18" src="https://github.com/The-Blooket-Hacks/.github/blob/main/profile/153327801663345229.gif-modified.png"> ‎ Blooket Pro Hacker • timmyboyiscool • blooket.pro.hacker@gmail.com
 
-• ‎ <img width="18" src="https://i.ibb.co/nCb2NjY/3-CE6-DBB3-9-E4-A-4-DE4-8090-F8-ACCD394-AE1.png"> ‎ Crazyh • Huckle\#4707 • crazyh.dev@gmail.com
-
-• ‎ <img width="18" src="https://cdn.discordapp.com/emojis/1056989789691322459"> ‎ Project Link: [Click Here](https://github.com/Blooket-Cheats/Blooket-Hacks)
+• ‎ <img width="18" src="https://cdn.discordapp.com/emojis/1056989789691322459"> ‎ Project Link: [Click Here](https://github.com/The-Blooket-Hacks/Blooket-Hacks)
 
 • ‎ <img width="18" src="https://cdn.discordapp.com/emojis/1032768182341091338.png"> ‎ Website Link: [Click Here](https://blooket-hacks.crazyh.repl.co)
 
